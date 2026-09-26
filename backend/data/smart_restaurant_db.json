@@ -3321,6 +3321,12 @@
       "checkIn": "10:45 AM",
       "checkOut": "",
       "status": "Present"
+    },
+    {
+      "id": "att_1790394975884_06k3li",
+      "staffId": "stf_1790309434085_9xic3l",
+      "date": "2026-09-26",
+      "status": "Present"
     }
   ],
   "inventory": [
